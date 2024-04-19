@@ -1,4 +1,4 @@
-Hi 🫡 My name is Mohammad Amini
+Hi [🫡](https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/lottie.json) My name is Mohammad Amini
 ======================================================================================================================================
 
 A dedicated researcher with a fervent passion for Artificial Intelligence (AI) and Reinforcement Learning (RL). 🤖
