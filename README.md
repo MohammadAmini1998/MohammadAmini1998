@@ -1,5 +1,6 @@
 Hi [🫡](https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/lottie.json) My name is Mohammad Amini
 ======================================================================================================================================
+![512](https://github.com/MohammadAmini1998/MohammadAmini1998/assets/49214384/51261e26-5869-4450-bf43-8f19aacce80d)
 
 A dedicated researcher with a fervent passion for Artificial Intelligence (AI) and Reinforcement Learning (RL). 🤖
 ------------------------------------------------------------------------------------------------------------------
