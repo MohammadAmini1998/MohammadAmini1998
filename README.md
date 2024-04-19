@@ -1,4 +1,4 @@
-Hello <img src="https://github.com/MohammadAmini1998/MohammadAmini1998/assets/49214384/51261e26-5869-4450-bf43-8f19aacce80d" alt="512" width="80" height="80"> My name is Mohammad Amini
+Hello <img src="https://github.com/MohammadAmini1998/MohammadAmini1998/assets/49214384/51261e26-5869-4450-bf43-8f19aacce80d" alt="512" width="50" height="50"> My name is Mohammad Amini
 ======================================================================================================================================
 
 
