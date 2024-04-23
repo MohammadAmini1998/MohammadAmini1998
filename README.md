@@ -14,7 +14,7 @@ My journey into the realm of AI began with a fascination for its limitless poten
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [mohammad.aminiiii98@gmail.com](mailto:mohammad.aminiiii98@gmail.com)
-* 🌐  You can find more [here](https://mohammadamini1998.github.io/MohammadAmini.github.io/)
+* 🌐  You can find more me [here](https://mohammadamini1998.github.io/MohammadAmini.github.io/)
 
 ### Skills
 
