@@ -10,7 +10,7 @@ My journey into the realm of AI began with a fascination for its limitless poten
 
 💡 🔬 As a researcher in AI and RL, I immerse myself in the latest developments, constantly seeking to push the boundaries of what's possible. Whether it's exploring novel algorithms, dissecting cutting-edge research papers, or tinkering with code implementations, I'm always eager to delve deeper into the fascinating world of intelligent systems.
 
-💻 ✨ What motivates me most is the opportunity to contribute to the advancement of technology that has the potential to revolutionize countless fields, from healthcare and finance to robotics and gaming. Every challenge I encounter fuels my determination to unravel its complexities and uncover innovative solutions. 🚀
+💻 ✨ What motivates me most is the opportunity to contribute to the advancement of technology that has the potential to revolutionize countless fields, from healthcare to finance and gaming. Every challenge I encounter fuels my determination to unravel its complexities and uncover innovative solutions. 🚀
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [mohammad.aminiiii98@gmail.com](mailto:mohammad.aminiiii98@gmail.com)
