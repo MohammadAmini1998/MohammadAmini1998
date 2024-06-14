@@ -3,7 +3,7 @@ Hello <img src="https://github.com/MohammadAmini1998/MohammadAmini1998/assets/49
 
 
 
-A dedicated researcher with a fervent passion for Artificial Intelligence (AI) and Reinforcement Learning (RL). 🤖
+A dedicated researcher with a fervent passion for Artificial Intelligence (AI) and Reinforcement Learning (RL).
 ------------------------------------------------------------------------------------------------------------------
 
 My journey into the realm of AI began with a fascination for its limitless potential to transform industries and solve complex problems. Over time, I found myself drawn towards Reinforcement Learning, captivated by its ability to mimic human learning processes and optimize decision-making in dynamic environments.
